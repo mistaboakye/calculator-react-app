@@ -1,0 +1,37 @@
+.col{
+	text-align: right;
+	background-color: gray;
+	height: 70px;
+	font-size: 40px;
+	color: white;
+}
+.col1{
+	text-align: right;
+	background-color: gray;
+	height: 70px;
+	font-size: 40px;
+}
+.col2{
+	text-align: center;
+	background-color: lightgray;
+	height: 70px;
+	font-size: 40px;
+	border: solid 0.01px gray
+}
+.col3{
+	text-align: center;
+	background-color: orange;
+	height: 70px;
+	font-size: 40px;
+	color: white;
+	border: solid 0.01px grey;
+}
+.border1{
+	border-left: none;
+}
+.border2{
+	border-right: none;
+}
+.border3{
+	border-bottom: none;
+}
